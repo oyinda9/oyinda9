@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and javascript 
 - 💞️ I’m looking to collaborate on .many projects ..
 - 📫 How to reach me .
-You can reach me on phone: 08132828531 Instagram: _oyin.damola 
+You can reach me on phone: 08132828531 ,email:sholankeprecious3@gmail.com
 
 <!---
 oyinda9/oyinda9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
