@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @oyinda9
-- 👀 I’m interested in web development,cybersecurity and having fun
-- 🌱 I’m currently learning python and javascript 
-- 💞️ I’m looking to collaborate on .many projects ..
-- 📫 How to reach me .
-You can reach me on phone: 08132828531 ,email:sholankeprecious3@gmail.com
+👋 Hi, I’m **Precious Sholanke (@oyinda9)**
+💻 I’m a **Full-Stack Software Developer** passionate about **building scalable software that solves real-world problems**.
+🔒 I’m also interested in **Cybersecurity**, ensuring the applications I build are secure and reliable.
 
-<!---
-oyinda9/oyinda9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 Currently Learning
+
+* Advanced **Python** & **JavaScript** concepts
+* Exploring **DevOps** and **Cloud technologies**
+
+### 💡 Collaboration
+
+I’m open to collaborating on impactful **web development projects**, **open-source contributions**, and innovative solutions that help people and businesses.
+ 📫 How to Reach Me
+
+* 📧 Email: sholankeprecious3@gmail.com
+* 📱 Phone: +234 813 282 8531
+* 💼 LinkedIn: [Precious Sholanke](https://www.linkedin.com/in/precious-sholanke-5a6113232/)
+ *Always learning, always building scalable solutions.*
